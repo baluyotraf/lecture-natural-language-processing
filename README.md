@@ -92,4 +92,4 @@ The `models` folder is used as the output of the trained models when running
 the notebook. Specifically, the CRF models created by NLTK are stored here.
 
 [Code]: https://github.com/baluyotraf/lecture-natural-language-processing (Code)
-[Software + ML]: https://education.softwareplus.ml/projects/natural-language-processing/ (Website)
+[Software + ML]: https://education.softwareplusml.baluyotraf.com/projects/natural-language-processing/ (Website)
